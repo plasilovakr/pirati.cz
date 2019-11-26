@@ -76,7 +76,7 @@ Naším cílem je armáda jako přísně kontrolovaná a výkonná součást na�
 
 ### Máte úplně jiný nápad?
 
-Dejte vědět! Vaše další návrhy můžete posílat kontaktní osobě za tým, kterou je Kristýna Plášilová (<kristyna.plasilova@pirati.cz>).
+Dejte vědět! Vaše další návrhy můžete posílat kontaktní osobě za tým, kterou je David František Wagner (<david.frantisek@pirati.cz>).
 
 
 
@@ -92,7 +92,7 @@ EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se
 * **[František Kopřiva](/lide/frantisek-kopriva)**, poslanec
 * **David František Wagner**, vedoucí zahraničního odboru
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
-* **Kristýna Plášilová**, asistent Jana Lipavského
+* **Kristýna Plašilová**, asistentka Jana Lipavského
 * **Alex Mansurov**, asistent Františka Kopřivy
 * **David František Wagner**, asistent Mikuláše Peksy
 * **[František Navrkal](/lide/frantisek-navrkal)**, člen zahraničního výboru
